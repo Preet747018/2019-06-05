@@ -10,3 +10,12 @@ function test(){
 }
 test();
 alert(a);
+function orange(blueberry){
+    if(blueberry > 10){
+        var a = 5;
+    }
+    else{
+        var a = 108;
+    }
+    orange(3);
+}
